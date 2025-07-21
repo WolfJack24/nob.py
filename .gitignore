@@ -1,7 +1,5 @@
 # Python virtual environment
 /.venv/
 
-# Project-specific files
-/main.py
-/nob.h
-/nobpy/
+# Cached files
+__pycache__/
